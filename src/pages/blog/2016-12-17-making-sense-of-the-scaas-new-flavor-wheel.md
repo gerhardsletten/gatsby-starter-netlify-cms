@@ -8,6 +8,7 @@ description: >-
 tags:
   - flavor
   - tasting
+custom-label: Hei verden
 ---
 ![flavor wheel](/img/jumbotron.jpg)
 

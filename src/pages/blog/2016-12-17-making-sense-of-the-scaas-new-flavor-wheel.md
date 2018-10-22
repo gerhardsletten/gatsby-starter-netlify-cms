@@ -9,6 +9,7 @@ tags:
   - flavor
   - tasting
 custom-label: Hei verden
+customLabel2: Hei verden 2
 ---
 ![flavor wheel](/img/jumbotron.jpg)
 
